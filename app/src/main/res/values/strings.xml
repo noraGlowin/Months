@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Months</string>
+    <string name="one">1- January</string>
+    <string name="two"> 2-February</string>
+    <string name="three"> 3-March</string>
+    <string name="four"> 4-April</string>
+    <string name="five"> 5-May</string>
+    <string name="Six"> 6-June</string>
+    <string name="Seven"> 7-July</string>
+    <string name="Eight"> 8- August</string>
+    <string name="Nine"> 9- September</string>
+    <string name="Ten"> 10-October</string>
+    <string name="eleventh"> 11- November</string>
+    <string name="twelfth"> 12- December</string>
+</resources>
